@@ -28,3 +28,15 @@ cool diagram on serving sizes: https://idph.iowa.gov/Portals/1/Files/WIC/svg_siz
   - sodium to 2300 mg a day
   - saturated fat to 22 grams a day
   - added sugars to 50 grams a day
+
+## Planning
+What would be the best way to ensure I get these major food groups and the recommended quantities?
+- Meal prepping every Sunday
+- Containers that are grab and go
+  - For freshness, maybe it would be best to prep every 3 days
+  - For ease, it should be broken down into groups of containers that are easy to grab and go
+  - Dont forget about water!
+  - Additional thought: make breakfast, lunch pretty robotic. But do something special for dinners
+
+
+## Example Week
