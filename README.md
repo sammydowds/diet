@@ -1,7 +1,9 @@
 # diet
 a repo to manage my notes on health
 
-helpful: https://fns-prod.azureedge.us/sites/default/files/usda_food_patterns/USDAFoodPatternsSummaryTable.pdf
+best table: https://fns-prod.azureedge.us/sites/default/files/usda_food_patterns/USDAFoodPatternsSummaryTable.pdf
+
+cool diagram on serving sizes: https://idph.iowa.gov/Portals/1/Files/WIC/svg_size_engligh.pdf
 
 # Five Food Groups (for 2000 calories/day)
 - Fruits (2 cups)
